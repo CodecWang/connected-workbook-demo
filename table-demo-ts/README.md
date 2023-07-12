@@ -1,0 +1,1 @@
+Run the code directly: `npx ts-node demo.ts`
